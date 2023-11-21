@@ -1,5 +1,11 @@
 # map
 
+## 项目介绍
+可视化地图学习小demo
+vue@2
+echarts@4.9.0
+
+
 ## Project setup
 ```
 npm install
@@ -15,10 +21,3 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
